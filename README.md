@@ -43,7 +43,7 @@ This project using Unity 2022.3.50f1
 ## 📂Files description
 
 ```
-├── 2D-GPC-1BitPong-Project                     # In this Folder, containing all the Unity project files, to be opened by a Unity Editor
+├── 2D-GPC-Perilsiums-Project                     # In this Folder, containing all the Unity project files, to be opened by a Unity Editor
    ├── ...
    ├── Assets                         #  In this Folder, it contains all our code, assets, scenes, etcwas not automatically created by Unity
       ├── ...
